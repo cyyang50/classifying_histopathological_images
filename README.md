@@ -6,6 +6,6 @@ This study utilized Google Colab as the working platform equipped with GPU. In t
 
 The experiment design is shown as below.
 
-<img src="https://user-images.githubusercontent.com/80690817/172627806-24c6a407-b2b0-40ad-bd61-7264c4ff10ef.png" width="50%" height="50%">
+<img src="https://user-images.githubusercontent.com/80690817/172627806-24c6a407-b2b0-40ad-bd61-7264c4ff10ef.png" width="70%" height="70%">
 
 
